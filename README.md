@@ -1,5 +1,7 @@
 # Mastodon Account Backup Script
 
+<img src=https://github.com/user-attachments/assets/62b8e347-e148-4a96-8f67-6b5170703743 width=33%>
+
 This Python script allows you to back up key data from your Mastodon account, including:
 
 - **Statuses (Posts)**
