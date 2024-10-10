@@ -1,0 +1,50 @@
+# Ignore configuration files containing sensitive data
+config.ini
+
+# Ignore backup directories
+mastodon_backup_*/
+
+# Ignore Python bytecode and temporary files
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.pyo
+*.pyd
+*.pyd
+
+# Ignore log files
+*.log
+
+# Ignore virtual environment directories
+venv/
+env/
+.venv/
+.env/
+ENV/
+env.bak/
+*.env
+
+# Ignore temporary files from IDEs/editors
+.vscode/
+.idea/
+*.swp
+*~
+
+# Ignore backup or temp files created by editors
+*.bak
+*.tmp
+*.temp
+*.old
+
+# Ignore test output files
+*.coverage
+coverage.xml
+nosetests.xml
+test-output/
+
+# Ignore Docker files (if applicable)
+Dockerfile
+docker-compose.yml
+*.dockerfile
+
